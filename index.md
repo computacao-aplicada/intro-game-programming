@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Intro to Game Programming"
-  text: "Site com os materiais da disciplina de desenvolvimento de jogos"
-  tagline: My great project tagline
+  # text: "Site com os materiais da disciplina de desenvolvimento de jogos"
+  tagline: Repositório com os materiais da disciplina de desenvolvimento de jogos
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
